@@ -1,0 +1,13 @@
+---
+layout: post
+title: The Finch
+---
+
+{% include figure.html 
+    url="/site/social-media.png"
+    alt="An image of a finch on a dark blue background" 
+    caption="The Finch logo" 
+    linktext="Charlie Smoothy" 
+    link="https://thefin.ch" %}
+
+Coming soon.
