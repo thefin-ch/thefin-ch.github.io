@@ -1,0 +1,58 @@
+# Site settings
+
+title: "The Finch"
+subtitle: ""
+
+description: ""
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://thefin-ch.github.io"
+author: "The Finch"
+
+# Images and assets
+image-path: "/assets/images"
+css-path: "/assets/styles"
+js-path: "/assets/scripts"
+
+hero-images-path: "/assets/images/hero"
+social-images-path: "/assets/images/social"
+post-images-path: "/assets/images/posts"
+
+social-media-image: "/assets/images/site/social-media.png"
+
+theme-colour: "#007aff"
+
+favicon: "/favicon.ico"
+favicon-svg: "/assets/images/site/favicon.svg"
+favicon-pinned-svg: "/assets/images/site/favicon-pinned-svg.svg"
+favicon-large-png: "/assets/images/site/favicon-large-png.png"
+
+# Social settings
+facebook-app-id: "" # For Facebook OpenGraph integration
+facebook-profile-id: "" # For Facebook OpenGraph integration
+facebook-url:	""
+facebook-handle: "" # Automatically pre-pends http://facebook.com/
+
+twitter-url: "" # Twitter handle i.e. joebloggs
+twitter-handle: "" # Twitter handle i.e. joebloggs
+
+instagram-url:  ""
+instagram-handle:  ""
+
+# Google settings
+google-site-verification: ""
+google-analytics: "" # GA ID code
+
+# Plugins and build settings
+
+permalink: pretty
+markdown: kramdown
+future: false
+sass:
+    sass_dir: _sass
+
+remote_theme: thefinch/the-finch--jekyll-theme
+
+debug: true
+
+
