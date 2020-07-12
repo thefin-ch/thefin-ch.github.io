@@ -1,3 +1,3 @@
 # The Finch
 
-Coming soon
+This is the Github Pages repository for The Finch.
