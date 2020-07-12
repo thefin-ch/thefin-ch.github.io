@@ -53,6 +53,6 @@ sass:
 
 remote_theme: thefin-ch/the-finch--jekyll-theme
 
-debug: true
+debug: false
 
 
