@@ -51,6 +51,14 @@ future: false
 sass:
     sass_dir: _sass
 
+collections:
+  topics:
+    output: true
+    permalink: /topic/:title/
+    defaults:
+      values:
+        layout: topic
+
 remote_theme: thefin-ch/the-finch--jekyll-theme
 
 debug: false
