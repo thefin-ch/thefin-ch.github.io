@@ -59,8 +59,6 @@ collections:
       values:
         layout: topic
 
-paginate: 7
-paginate_path: "/posts/:num/"
 
 remote_theme: thefinch/the-finch--jekyll-theme
 
