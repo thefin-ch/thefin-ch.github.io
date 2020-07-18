@@ -64,9 +64,6 @@ paginate_path: "/posts/:num/"
 
 remote_theme: thefinch/the-finch--jekyll-theme
 
-plugins:
-- jekyll-paginate
-
 debug: false
 
 
