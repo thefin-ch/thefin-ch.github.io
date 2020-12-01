@@ -58,6 +58,12 @@ collections:
     defaults:
       values:
         layout: topic
+  pages:
+    output: true
+    permalink: /:title/
+    defaults:
+      values:
+        layout: page
 
 paginate: 7
 paginate_path: "/posts/:num/"
